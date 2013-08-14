@@ -3,9 +3,10 @@ require_relative 'article'
 
 get '/:name/' do
 	article = Article.new params[:name]
-	erb :article, :locals => article.attrs do
-		markdown article.intro + "\n" + article.content
-	end
+	attrs = article.attrs.clone;
+	attrs[:intro] = markdown article.intro
+	attrs[:content] = markdown article.content
+	erb :article, :locals => attrs
 end
 
 get '/:name/*' do
