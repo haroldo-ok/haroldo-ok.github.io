@@ -6,6 +6,7 @@ get '/:name/' do
 	attrs = article.attrs.clone;
 	attrs[:intro] = markdown article.intro
 	attrs[:content] = markdown article.content
+	attrs[:random_articles] = Article.list.sample 4
 	erb :article, :locals => attrs
 end
 

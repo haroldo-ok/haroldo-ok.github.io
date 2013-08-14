@@ -148,6 +148,20 @@ dl.info {
 	margin-bottom: 0;
 }
 
+#suggestions {
+	padding: 10px 30px;
+	margin-bottom: 10px;
+}
+
+#suggestions .thumbnails {
+	height: 200px;
+	overflow: hidden;
+}
+
+#disqus_thread  {
+	padding: 10px 30px;
+}
+
 .at4-share-outer {
 	opacity: 0.5;
 	transition: opacity 0.5s ease-in-out;
@@ -180,13 +194,20 @@ dl.info {
 		-webkit-column-count: 2; /* Safari and Chrome */
 		column-count: 2;
 	}
-}
-
-@media all and (min-width: 900px) {
-	.thumbnails
+	
+	#suggestions .thumbnails
 	{
 		-moz-column-count: 3; /* Firefox */
 		-webkit-column-count: 3; /* Safari and Chrome */
 		column-count: 3;
+	}
+}
+
+@media all and (min-width: 900px) {
+	#suggestions .thumbnails
+	{
+		-moz-column-count: 4; /* Firefox */
+		-webkit-column-count: 4; /* Safari and Chrome */
+		column-count: 4;
 	}
 }

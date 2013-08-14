@@ -1,9 +1,30 @@
 <script src="/js/contentflow/contentflow.js" load="slideshow"></script>
 <div id="article" itemscope itemtype="http://schema.org/SoftwareApplication">
-	<h1 itemprop="name"><%= title %></h1>
-	<div itemprop="text">
+	<h1 itemprop="name">
+		<%= title %>
+	</h1>
+	<div name="description">
 		<%= intro %>
+	</div>
+	<div name="text">
 		<%= content %>
+	</div>
+</div>
+
+<div id="suggestions">
+	<h2>You may also like</h2>
+	
+	<div class="thumbnails">
+	<% random_articles.each do |article| %>
+		<a class="thumbnail" href="<%= article.name %>/" itemscope itemtype="http://schema.org/SoftwareApplication">
+			<% if !article.images.empty? %>
+				<img src="<%= '/' + article.name + '/' + article.random_image %>" itemprop="image" />
+			<% end %>
+			
+			<h1 itemprop="name"><%= article.attrs[:title] %></h1>
+			<span itemprop="description"><%= (markdown article.intro).gsub(/<a\s/, '<span ').gsub(/<\/a\s*>/, '</span>') %></span>
+		</a>
+	<% end %>
 	</div>
 </div>
 
