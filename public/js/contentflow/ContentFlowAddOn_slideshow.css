@@ -1,0 +1,60 @@
+/*  ContentFlowAddOn_slideshow, version 3.0 
+ *  (c) 2008 - 2010 Sebastian Kutsch
+ *  <http://www.jacksasylum.eu/ContentFlow/>
+ *
+ *  This file is distributed under the terms of the MIT license.
+ *  (see http://www.jacksasylum.eu/ContentFlow/LICENSE)
+ *
+ *--------------------------------------------------------------------------*/
+
+.ContentFlowAddOn_slideshow {
+}
+
+    
+    .ContentFlowAddOn_slideshow .controlls {
+        text-align: center;
+        bottom: 0px;
+        padding: 10px;
+        margin: 0 auto;
+        width: 175px;
+        position: relative;
+    }
+        .ContentFlowAddOn_slideshow .controlls .button {
+            width: 25px;
+            height: 25px;
+            margin: 0 auto; 
+            background-position: center;
+            background-repeat: no-repeat;
+            background-image: url(img/slideshow_button.png);
+            float: left;
+            margin: 5px;
+            opacity: 0.7;
+            filter:progid:DXImageTransform.Microsoft.Alpha( opacity=70 );
+        }
+            * html .ContentFlowAddOn_slideshow .controlls .button { background-image: url(img/slideshow_button.gif); }
+
+        .ContentFlowAddOn_slideshow .controlls .button:hover {
+            opacity: 1;
+            filter:progid:DXImageTransform.Microsoft.Alpha( opacity=100 );
+        }
+
+        .ContentFlowAddOn_slideshow .controlls .play { background-image: url(img/slideshow_play.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .play { background-image: url(img/slideshow_play.gif); }
+            
+        .ContentFlowAddOn_slideshow .controlls .pause { background-image: url(img/slideshow_pause.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .pause { background-image: url(img/slideshow_pause.gif); }
+
+        .ContentFlowAddOn_slideshow .controlls .ff { background-image: url(img/slideshow_ff.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .ff { background-image: url(img/slideshow_ff.gif); }
+          
+        .ContentFlowAddOn_slideshow .controlls .slow { background-image: url(img/slideshow_slow.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .slow { background-image: url(img/slideshow_slow.gif); }
+          
+        .ContentFlowAddOn_slideshow .controlls .preButton { background-image: url(img/slideshow_pre.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .preButton { background-image: url(img/slideshow_pre.gif); }
+
+        .ContentFlowAddOn_slideshow .controlls .nextButton { background-image: url(img/slideshow_next.png); }
+            * html .ContentFlowAddOn_slideshow .controlls .nextButton { background-image: url(img/slideshow_next.gif); }
+
+/* ================================= */
+

@@ -1,0 +1,33 @@
+Title: Mega Mania 97
+Author: Haroldo de Oliveira Pinheiro
+Date: Thu Feb 25 2012 11:30:00 GMT-0300
+
+This was the first game I've ever made. It's a clone of [Activision's Megamania][Megamania].
+
+## Info
+Year: 1997
+Platform: MS-DOS
+Language: Turbo Pascal
+Status: Finished
+
+## Downloads
+### >> [Download Mega Mania 97](downloads/mmania97.zip "Download Mega Mania 97") <<
+<br>
+
+##Images
+
+<div class="ContentFlow">
+	<div class="flow">
+		<img class="item" src="mega-mania-97/mmania97_001.png" />
+		<img class="item" src="mega-mania-97/mmania97_003.png" />
+		<img class="item" src="mega-mania-97/mmania97_004.png" />
+		<img class="item" src="mega-mania-97/mmania97_006.png" />
+		<img class="item" src="mega-mania-97/mmania97_007.png" />
+		<img class="item" src="mega-mania-97/mmania97_010.png" />
+		<img class="item" src="mega-mania-97/mmania97_012.png" />
+		<img class="item" src="mega-mania-97/mmania97_013.png" />
+	</div>
+</div>
+
+
+[Megamania]: (http://www.atariage.com/software_page.html?SoftwareID=1145)
