@@ -1,0 +1,102 @@
+2013-08-14T03:02:51.152845+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /soko-master-sms/soko-master-sms/sokoban-01.png
+2013-08-14T03:02:51.155594+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /datastorm-sms/datastorm-sms/DataStorm-04.png
+2013-08-14T03:02:51.311037+00:00 heroku[router]: at=info method=GET path=/atari-2600-soccer/atari-2600-soccer/a2600_soccer.bin_1.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=85ms status=200 bytes=1937
+2013-08-14T03:02:51.311212+00:00 heroku[router]: at=info method=GET path=/keystone-kapers-gameboy-color/keystone-kapers-gameboy-color/KEYSTONE-1.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=5ms status=200 bytes=3664
+2013-08-14T03:02:51.313954+00:00 heroku[router]: at=info method=GET path=/pazzt-zzt-clone/pazzt-zzt-clone/pazzt_003.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=8ms status=200 bytes=4667
+2013-08-14T03:02:51.298837+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /artillery-master-8k-sms/artillery-master-8k-sms/artillery_master_8k-02.png
+2013-08-14T03:02:51.306292+00:00 app[web.1]: ip-10-10-102-212.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /atari-2600-soccer/atari-2600-soccer/a2600_soccer.bin_1.png HTTP/1.1" 200 1937
+2013-08-14T03:02:51.305629+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /atari-2600-soccer/atari-2600-soccer/a2600_soccer.bin_1.png HTTP/1.1" 200 1937 0.0804
+2013-08-14T03:02:51.306345+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /canyon-racer-sms/canyon-racer-sms/racer-08.png
+2013-08-14T03:02:51.298577+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /artillery-master-8k-sms/artillery-master-8k-sms/artillery_master_8k-02.png HTTP/1.1" 200 2247 0.0007
+2013-08-14T03:02:51.305380+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /keystone-kapers-gameboy-color/keystone-kapers-gameboy-color/KEYSTONE-1.png HTTP/1.1" 200 3664 0.0012
+2013-08-14T03:02:51.306724+00:00 app[web.1]: ip-10-10-102-212.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /keystone-kapers-gameboy-color/keystone-kapers-gameboy-color/KEYSTONE-1.png HTTP/1.1" 200 3664
+2013-08-14T03:02:51.306724+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /keystone-kapers-gameboy-color/keystone-kapers-gameboy-color/KEYSTONE-1.png
+2013-08-14T03:02:51.309635+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /pazzt-zzt-clone/pazzt-zzt-clone/pazzt_003.png
+2013-08-14T03:02:51.309324+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /pazzt-zzt-clone/pazzt-zzt-clone/pazzt_003.png HTTP/1.1" 200 4667 0.0005
+2013-08-14T03:02:51.298837+00:00 app[web.1]: ip-10-178-3-37.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /artillery-master-8k-sms/artillery-master-8k-sms/artillery_master_8k-02.png HTTP/1.1" 200 2247
+2013-08-14T03:02:51.306162+00:00 app[web.1]: ip-10-40-13-223.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /canyon-racer-sms/canyon-racer-sms/racer-08.png HTTP/1.1" 200 3416
+2013-08-14T03:02:51.305096+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /canyon-racer-sms/canyon-racer-sms/racer-08.png HTTP/1.1" 200 3416 0.0971
+2013-08-14T03:02:51.309635+00:00 app[web.1]: ip-10-10-57-5.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /pazzt-zzt-clone/pazzt-zzt-clone/pazzt_003.png HTTP/1.1" 200 4667
+2013-08-14T03:02:51.308699+00:00 heroku[router]: at=info method=GET path=/canyon-racer-sms/canyon-racer-sms/racer-08.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=101ms status=200 bytes=3416
+2013-08-14T03:02:51.306724+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /atari-2600-soccer/atari-2600-soccer/a2600_soccer.bin_1.png
+2013-08-14T03:02:51.448716+00:00 heroku[router]: at=info method=GET path=/vision-8-chip-8-emulator-for-gameboy-color/vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=6ms status=200 bytes=2145
+2013-08-14T03:02:51.445811+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /vision-8-chip-8-emulator-for-gameboy-color/vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png HTTP/1.1" 200 2145 0.0008
+2013-08-14T03:02:51.446178+00:00 app[web.1]: ip-10-32-207-199.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /vision-8-chip-8-emulator-for-gameboy-color/vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png HTTP/1.1" 200 2145
+2013-08-14T03:02:51.446178+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /vision-8-chip-8-emulator-for-gameboy-color/vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png
+2013-08-14T03:02:51.469105+00:00 heroku[router]: at=info method=GET path=/fight-x-fighting-game-system/fight-x-fighting-game-system/fight_006.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=6ms status=200 bytes=15688
+2013-08-14T03:02:51.466401+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /fight-x-fighting-game-system/fight-x-fighting-game-system/fight_006.png HTTP/1.1" 200 15688 0.0008
+2013-08-14T03:02:51.467042+00:00 app[web.1]: ip-10-62-137-119.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /fight-x-fighting-game-system/fight-x-fighting-game-system/fight_006.png HTTP/1.1" 200 15688
+2013-08-14T03:02:51.467042+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /fight-x-fighting-game-system/fight-x-fighting-game-system/fight_006.png
+2013-08-14T03:02:51.474207+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /gameboy-color-raycasting-system/gameboy-color-raycasting-system/RAYCAST2.png HTTP/1.1" 200 2977 0.0008
+2013-08-14T03:02:51.476388+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /gameboy-color-raycasting-system/gameboy-color-raycasting-system/RAYCAST2.png
+2013-08-14T03:02:51.476388+00:00 app[web.1]: ip-10-40-37-199.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /gameboy-color-raycasting-system/gameboy-color-raycasting-system/RAYCAST2.png HTTP/1.1" 200 2977
+2013-08-14T03:02:51.480173+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /stormer/stormer/stormer_013.png
+2013-08-14T03:02:51.479792+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /stormer/stormer/stormer_013.png HTTP/1.1" 200 3845 0.0005
+2013-08-14T03:02:51.480173+00:00 app[web.1]: ip-10-224-67-11.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /stormer/stormer/stormer_013.png HTTP/1.1" 200 3845
+2013-08-14T03:02:51.485857+00:00 heroku[router]: at=info method=GET path=/stormer/stormer/stormer_013.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=8ms status=200 bytes=3845
+2013-08-14T03:02:51.527781+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /genesis-rpg-creator/genesis-rpg-creator/grpgc-1.png HTTP/1.1" 200 15016 0.0520
+2013-08-14T03:02:51.528322+00:00 app[web.1]: ip-10-38-159-214.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /genesis-rpg-creator/genesis-rpg-creator/grpgc-1.png HTTP/1.1" 200 15016
+2013-08-14T03:02:51.528322+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /genesis-rpg-creator/genesis-rpg-creator/grpgc-1.png
+2013-08-14T03:02:51.481035+00:00 heroku[router]: at=info method=GET path=/gameboy-color-raycasting-system/gameboy-color-raycasting-system/RAYCAST2.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=7ms status=200 bytes=2977
+2013-08-14T03:02:51.594671+00:00 heroku[router]: at=info method=GET path=/star-control-combat-engine-gameboy-color/star-control-combat-engine-gameboy-color/TESTSHIP-3.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=4ms status=200 bytes=1904
+2013-08-14T03:02:51.592235+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /star-control-combat-engine-gameboy-color/s
+tar-control-combat-engine-gameboy-color/TESTSHIP-3.png
+2013-08-14T03:02:51.591941+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /star-control-combat-engine-gameboy-color/star-control-combat-engine-gameboy-color/TESTSHIP-3.png HTTP/1.1" 200 1904 0.0007
+2013-08-14T03:02:51.592235+00:00 app[web.1]: ip-10-38-127-83.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /star-control-combat-engine-gameboy-color/star-control-combat-engine-gameboy-color/TESTSHIP-3.png HTTP/1.1" 200 1904
+2013-08-14T03:02:51.530524+00:00 heroku[router]: at=info method=GET path=/genesis-rpg-creator/genesis-rpg-creator/grpgc-1.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=62ms status=200 bytes=15016
+2013-08-14T03:02:51.652452+00:00 heroku[router]: at=info method=GET path=/mega-mania-97/mega-mania-97/mmania97_004.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=9ms status=200 bytes=1803
+2013-08-14T03:02:51.653610+00:00 heroku[router]: at=info method=GET path=/headless-ninja-volley-sms/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=0ms service=8ms status=200 bytes=724
+2013-08-14T03:02:51.649416+00:00 app[web.1]: ip-10-10-57-5.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /headless-ninja-volley-sms/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png HTTP/1.1" 200 724
+2013-08-14T03:02:51.649044+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /headless-ninja-volley-sms/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png HTTP/1.1" 200 724 0.0011
+2013-08-14T03:02:51.649416+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /headless-ninja-volley-sms/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png
+2013-08-14T03:02:51.649044+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /mega-mania-97/mega-mania-97/mmania97_004.png HTTP/1.1" 200 1803 0.0038
+2013-08-14T03:02:51.650203+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /mega-mania-97/mega-mania-97/mmania97_004.png
+2013-08-14T03:02:51.650203+00:00 app[web.1]: ip-10-38-127-83.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /mega-mania-97/mega-mania-97/mmania97_004.png HTTP/1.1" 200 1803
+2013-08-14T03:02:51.771667+00:00 heroku[router]: at=info method=GET path=/ultimate-tetris-sega-genesis/ultimate-tetris-sega-genesis/ULTETRIS003.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=31ms status=200 bytes=88447
+2013-08-14T03:02:51.765505+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /ultimate-tetris-sega-genesis/ultimate-tetris-sega-genesis/ULTETRIS003.png
+2013-08-14T03:02:51.765387+00:00 app[web.1]: ip-10-165-19-138.ec2.internal - - [14/Aug/2013:03:02:51 UTC] "GET /ultimate-tetris-sega-genesis/ultimate-tetris-sega-genesis/ULTETRIS003.png HTTP/1.1" 200 88447
+2013-08-14T03:02:51.762531+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:51] "GET /ultimate-tetris-sega-genesis/ultimate-tetris-sega-genesis/ULTETRIS003.png HTTP/1.1" 200 88447 0.0214
+2013-08-14T03:02:52.920597+00:00 heroku[router]: at=info method=GET path=/doom-fortress-skulltag-mod/ host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=6ms status=500 bytes=30
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/views/article.erb:-9:in `__tilt_69961242487980'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/views/article.erb:5:in `block in singleton class'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/views/article.erb:-7:in `instance_eval'
+2013-08-14T03:02:52.914675+00:00 app[web.1]: LocalJumpError - no block given (yield):
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:170:in `evaluate'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:103:in `render'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/tilt-1.4.1/lib/tilt/template.rb:170:in `call'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/views/article.erb:-7:in `singleton class'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:620:in `route_eval'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:452:in `render'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:1033:in `call'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  web.rb:6:in `block in <main>'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:620:in `instance_eval'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:653:in `process_route'
+2013-08-14T03:02:52.914675+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:362:in `erb'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:602:in `route!'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:653:in `catch'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:656:in `block in process_route'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:741:in `dispatch!'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:604:in `block (2 levels) in route!'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:1033:in `block in compile!'
+2013-08-14T03:02:52.914948+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:603:in `block in route!'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:602:in `each'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:530:in `call!'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:530:in `block in call!'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:706:in `invoke'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:706:in `block in invoke'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:706:in `instance_eval'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:706:in `catch'
+2013-08-14T03:02:52.915145+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:516:in `call'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:1142:in `block in call'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:1168:in `synchronize'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/bundle/ruby/2.0.0/gems/sinatra-1.1.0/lib/sinatra/base.rb:1142:in `call'
+2013-08-14T03:02:52.915969+00:00 app[web.1]: http://powerful-beyond-9127.herokuapp.com/ -> /doom-fortress-skulltag-mod/
+2013-08-14T03:02:52.915782+00:00 app[web.1]:  /app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+2013-08-14T03:02:52.915782+00:00 app[web.1]: 200.150.46.142 - - [14/Aug/2013 03:02:52] "GET /doom-fortress-skulltag-mod/ HTTP/1.1" 500 30 0.0025
+2013-08-14T03:02:52.915969+00:00 app[web.1]: ip-10-10-102-212.ec2.internal - - [14/Aug/2013:03:02:52 UTC] "GET /doom-fortress-skulltag-mod/ HTTP/1.1" 500 30
+2013-08-14T03:02:51.303501+00:00 heroku[router]: at=info method=GET path=/artillery-master-8k-sms/artillery-master-8k-sms/artillery_master_8k-02.png host=powerful-beyond-9127.herokuapp.com fwd="200.150.46.142" dyno=web.1 connect=1ms service=5ms status=200 bytes=2247
