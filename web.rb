@@ -10,6 +10,10 @@ get '/:name/' do
 	erb :article, :locals => attrs
 end
 
+get '/:name' do
+	redirect to "/#{params[:name]}/"
+end
+
 get '/:name/*' do
 	send_file File.expand_path(params[:splat].first, 'articles/')
 end
