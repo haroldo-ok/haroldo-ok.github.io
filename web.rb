@@ -11,7 +11,7 @@ get '/:name/' do
 end
 
 get '/:name' do
-	redirect to "/#{params[:name]}/"
+	redirect to("/#{params[:name]}/")
 end
 
 get '/:name/*' do
