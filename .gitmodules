@@ -1,0 +1,3 @@
+[submodule "articles/blockly-z80"]
+	path = articles/blockly-z80
+	url = https://github.com/haroldo-ok/blockly-z80
