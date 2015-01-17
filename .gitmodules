@@ -1,3 +1,6 @@
 [submodule "articles/blockly-z80"]
 	path = articles/blockly-z80
 	url = https://github.com/haroldo-ok/blockly-z80
+[submodule "articles/RgbQuant-SMS.js"]
+	path = articles/RgbQuant-SMS.js
+	url = https://github.com/haroldo-ok/RgbQuant-SMS.js/
