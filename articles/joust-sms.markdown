@@ -1,0 +1,27 @@
+Title: Joust
+Author: Haroldo de Oliveira Pinheiro
+Date: Thu Jul 19 2012 22:33:00 GMT-0300
+
+This was a try at making a version of [Joust](http://www.youtube.com/watch?v=avBoo8qyWfQ) for the Sega Master System. The graphics are partially done, the flying and scenery collision physics are implemented, but not much else.
+
+## Info
+Year: 2007
+Platform: Sega Master System
+Language: C (Z88DK) / Z80 Assembly
+Status: Unfinished 
+
+## Downloads
+### >> [Joust](downloads/joust-v0.05-alpha.zip "Download Joust") <<
+<br>
+
+##Images
+
+<div class="ContentFlow">
+	<div class="flow">
+		<img class="item" src="joust-sms/joust-01.png" />
+		<img class="item" src="joust-sms/joust-02.png" />
+		<img class="item" src="joust-sms/joust-03.png" />
+		<img class="item" src="joust-sms/joust-04.png" />
+		<img class="item" src="joust-sms/joust-05.png" />
+	</div>
+</div>

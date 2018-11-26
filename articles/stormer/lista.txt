@@ -1,0 +1,10 @@
+lista.txt
+stormer_001.png
+stormer_003.png
+stormer_004.png
+stormer_005.png
+stormer_006.png
+stormer_010.png
+stormer_012.png
+stormer_013.png
+stormer_015.png
