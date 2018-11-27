@@ -1,6 +1,4 @@
-Title: Doom Fortress - Team Fortress clone for the Doom engine
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Aug 23 2012 22:02:00 GMT-0300
+# Doom Fortress - Team Fortress clone for the Doom engine
 
 This is a mod for Doom or, more specifically, for [Skulltag]; The intention was to replicate the gameplay of [TF2] on the Doom engine while still keeping the original Doom look and feel.
 
@@ -17,38 +15,38 @@ Language: ACS/DECORATE (Doom mod)
 Status: Unfinished
 
 ## Downloads
-### >> [Doom Fortress](downloads/doomfortress.alpha.r112.zip "Download Doom Fortress") <<
+### >> [Doom Fortress](/downloads/doomfortress.alpha.r112.zip "Download Doom Fortress") <<
 <br>
 
 ##Images
 
-![Doom Fortress](doom-fortress-skulltag-mod/DF-Logo.png)
+![Doom Fortress](/doom-fortress-skulltag-mod/DF-Logo.png)
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="doom-fortress-skulltag-mod/CMD0A1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/COMMA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/COWBA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/D64GA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/DEMOA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/GO99A1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/GUNRA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/MEDCA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/SYNAA1.png" />	
-		<img class="item" src="doom-fortress-skulltag-mod/Sentry2.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Sentry3.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/CMD0A1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/COMMA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/COWBA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/D64GA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/DEMOA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/GO99A1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/GUNRA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/MEDCA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/SYNAA1.png" />	
+		<img class="item" src="/doom-fortress-skulltag-mod/Sentry2.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Sentry3.png" />
 	</div>
 </div>
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200048.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200103.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001559.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001608.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182254.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182256.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182528.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200048.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200103.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001559.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001608.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182254.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182256.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182528.png" />
 	</div>
 </div>
 
