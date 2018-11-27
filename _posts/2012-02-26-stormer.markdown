@@ -18,15 +18,15 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="stormer/stormer_001.png" />
-		<img class="item" src="stormer/stormer_003.png" />
-		<img class="item" src="stormer/stormer_004.png" />
-		<img class="item" src="stormer/stormer_005.png" />
-		<img class="item" src="stormer/stormer_006.png" />
-		<img class="item" src="stormer/stormer_010.png" />
-		<img class="item" src="stormer/stormer_012.png" />
-		<img class="item" src="stormer/stormer_013.png" />
-		<img class="item" src="stormer/stormer_015.png" />
+		<img class="item" src="/stormer/stormer_001.png" />
+		<img class="item" src="/stormer/stormer_003.png" />
+		<img class="item" src="/stormer/stormer_004.png" />
+		<img class="item" src="/stormer/stormer_005.png" />
+		<img class="item" src="/stormer/stormer_006.png" />
+		<img class="item" src="/stormer/stormer_010.png" />
+		<img class="item" src="/stormer/stormer_012.png" />
+		<img class="item" src="/stormer/stormer_013.png" />
+		<img class="item" src="/stormer/stormer_015.png" />
 	</div>
 </div>
 

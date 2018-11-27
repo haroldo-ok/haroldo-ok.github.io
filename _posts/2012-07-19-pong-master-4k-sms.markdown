@@ -18,12 +18,12 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="pong-master-4k-sms/Instructions.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-01.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-02.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-03.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-04.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-05.png" />
-		<img class="item" src="pong-master-4k-sms/pongmaster4k-06.png" />
+		<img class="item" src="/pong-master-4k-sms/Instructions.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-01.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-02.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-03.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-04.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-05.png" />
+		<img class="item" src="/pong-master-4k-sms/pongmaster4k-06.png" />
 	</div>
 </div>

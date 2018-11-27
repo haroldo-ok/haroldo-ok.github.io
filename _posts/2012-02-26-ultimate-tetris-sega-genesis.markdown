@@ -20,11 +20,11 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS000.png" />
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS001.png" />
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS002.png" />
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS003.png" />
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS004.png" />
-		<img class="item" src="ultimate-tetris-sega-genesis/ULTETRIS005.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS000.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS001.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS002.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS003.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS004.png" />
+		<img class="item" src="/ultimate-tetris-sega-genesis/ULTETRIS005.png" />
 	</div>
 </div>

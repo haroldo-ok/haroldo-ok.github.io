@@ -18,14 +18,14 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="mega-mania-97/mmania97_001.png" />
-		<img class="item" src="mega-mania-97/mmania97_003.png" />
-		<img class="item" src="mega-mania-97/mmania97_004.png" />
-		<img class="item" src="mega-mania-97/mmania97_006.png" />
-		<img class="item" src="mega-mania-97/mmania97_007.png" />
-		<img class="item" src="mega-mania-97/mmania97_010.png" />
-		<img class="item" src="mega-mania-97/mmania97_012.png" />
-		<img class="item" src="mega-mania-97/mmania97_013.png" />
+		<img class="item" src="/mega-mania-97/mmania97_001.png" />
+		<img class="item" src="/mega-mania-97/mmania97_003.png" />
+		<img class="item" src="/mega-mania-97/mmania97_004.png" />
+		<img class="item" src="/mega-mania-97/mmania97_006.png" />
+		<img class="item" src="/mega-mania-97/mmania97_007.png" />
+		<img class="item" src="/mega-mania-97/mmania97_010.png" />
+		<img class="item" src="/mega-mania-97/mmania97_012.png" />
+		<img class="item" src="/mega-mania-97/mmania97_013.png" />
 	</div>
 </div>
 

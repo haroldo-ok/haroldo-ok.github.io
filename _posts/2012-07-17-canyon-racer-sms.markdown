@@ -18,13 +18,13 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="canyon-racer-sms/racer-01.png" />
-		<img class="item" src="canyon-racer-sms/racer-02.png" />
-		<img class="item" src="canyon-racer-sms/racer-03.png" />
-		<img class="item" src="canyon-racer-sms/racer-04.png" />
-		<img class="item" src="canyon-racer-sms/racer-05.png" />
-		<img class="item" src="canyon-racer-sms/racer-06.png" />
-		<img class="item" src="canyon-racer-sms/racer-07.png" />
-		<img class="item" src="canyon-racer-sms/racer-08.png" />
+		<img class="item" src="/canyon-racer-sms/racer-01.png" />
+		<img class="item" src="/canyon-racer-sms/racer-02.png" />
+		<img class="item" src="/canyon-racer-sms/racer-03.png" />
+		<img class="item" src="/canyon-racer-sms/racer-04.png" />
+		<img class="item" src="/canyon-racer-sms/racer-05.png" />
+		<img class="item" src="/canyon-racer-sms/racer-06.png" />
+		<img class="item" src="/canyon-racer-sms/racer-07.png" />
+		<img class="item" src="/canyon-racer-sms/racer-08.png" />
 	</div>
 </div>

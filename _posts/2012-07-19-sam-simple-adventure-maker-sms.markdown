@@ -18,10 +18,10 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="sam-simple-adventure-maker-sms/output-01.png" />
-		<img class="item" src="sam-simple-adventure-maker-sms/output-02.png" />
-		<img class="item" src="sam-simple-adventure-maker-sms/output-03.png" />
-		<img class="item" src="sam-simple-adventure-maker-sms/output-04.png" />
-		<img class="item" src="sam-simple-adventure-maker-sms/output-05.png" />
+		<img class="item" src="/sam-simple-adventure-maker-sms/output-01.png" />
+		<img class="item" src="/sam-simple-adventure-maker-sms/output-02.png" />
+		<img class="item" src="/sam-simple-adventure-maker-sms/output-03.png" />
+		<img class="item" src="/sam-simple-adventure-maker-sms/output-04.png" />
+		<img class="item" src="/sam-simple-adventure-maker-sms/output-05.png" />
 	</div>
 </div>

@@ -22,33 +22,33 @@ Status: Unfinished
 
 ##Images
 
-![Doom Fortress](doom-fortress-skulltag-mod/DF-Logo.png)
+![Doom Fortress](/doom-fortress-skulltag-mod/DF-Logo.png)
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="doom-fortress-skulltag-mod/CMD0A1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/COMMA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/COWBA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/D64GA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/DEMOA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/GO99A1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/GUNRA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/MEDCA1.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/SYNAA1.png" />	
-		<img class="item" src="doom-fortress-skulltag-mod/Sentry2.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Sentry3.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/CMD0A1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/COMMA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/COWBA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/D64GA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/DEMOA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/GO99A1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/GUNRA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/MEDCA1.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/SYNAA1.png" />	
+		<img class="item" src="/doom-fortress-skulltag-mod/Sentry2.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Sentry3.png" />
 	</div>
 </div>
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200048.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200103.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001559.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001608.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182254.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182256.png" />
-		<img class="item" src="doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182528.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200048.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100322_200103.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001559.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100327_001608.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182254.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182256.png" />
+		<img class="item" src="/doom-fortress-skulltag-mod/Screenshot_Doom_20100404_182528.png" />
 	</div>
 </div>
 

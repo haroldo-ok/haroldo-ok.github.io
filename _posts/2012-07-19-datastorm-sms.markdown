@@ -18,12 +18,12 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="datastorm-sms/DataStorm-01.png" />
-		<img class="item" src="datastorm-sms/DataStorm-02.png" />
-		<img class="item" src="datastorm-sms/DataStorm-03.png" />
-		<img class="item" src="datastorm-sms/DataStorm-04.png" />
-		<img class="item" src="datastorm-sms/DataStorm-05.png" />
-		<img class="item" src="datastorm-sms/DataStorm-06.png" />
-		<img class="item" src="datastorm-sms/DataStorm-07.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-01.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-02.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-03.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-04.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-05.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-06.png" />
+		<img class="item" src="/datastorm-sms/DataStorm-07.png" />
 	</div>
 </div>

@@ -18,11 +18,11 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-01.png" />
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-02.png" />
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-03.png" />
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-04.png" />
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-05.png" />
-		<img class="item" src="dungeon-3d-sms/maze3d-2008-01-21-06.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-01.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-02.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-03.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-04.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-05.png" />
+		<img class="item" src="/dungeon-3d-sms/maze3d-2008-01-21-06.png" />
 	</div>
 </div>

@@ -20,14 +20,14 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_0.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_1.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_2.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_3.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_4.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_5.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_6.png" />
-		<img class="item" src="atari-2600-soccer/a2600_soccer.bin_7.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_0.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_1.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_2.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_3.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_4.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_5.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_6.png" />
+		<img class="item" src="/atari-2600-soccer/a2600_soccer.bin_7.png" />
 	</div>
 </div>
 

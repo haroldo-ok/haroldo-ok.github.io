@@ -18,12 +18,12 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="pazzt-zzt-clone/pazzt_000.png" />
-		<img class="item" src="pazzt-zzt-clone/pazzt_001.png" />
-		<img class="item" src="pazzt-zzt-clone/pazzt_002.png" />
-		<img class="item" src="pazzt-zzt-clone/pazzt_003.png" />
-		<img class="item" src="pazzt-zzt-clone/pazzt_004.png" />
-		<img class="item" src="pazzt-zzt-clone/pazzt_005.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_000.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_001.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_002.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_003.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_004.png" />
+		<img class="item" src="/pazzt-zzt-clone/pazzt_005.png" />
 	</div>
 </div>
 

@@ -18,17 +18,17 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_1.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_2.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_3.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_4.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_5.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_8.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_9.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_10.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_11.png" />
-		<img class="item" src="vision-8-chip-8-emulator-for-gameboy-color/GBC8_12.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_1.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_2.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_3.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_4.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_5.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_7.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_8.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_9.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_10.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_11.png" />
+		<img class="item" src="/vision-8-chip-8-emulator-for-gameboy-color/GBC8_12.png" />
 	</div>
 </div>
 

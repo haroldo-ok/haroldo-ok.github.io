@@ -18,13 +18,13 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-1.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-2.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-3.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-4.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-5.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-6.png" />
-		<img class="item" src="keystone-kapers-gameboy-color/KEYSTONE-7.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-1.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-2.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-3.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-4.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-5.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-6.png" />
+		<img class="item" src="/keystone-kapers-gameboy-color/KEYSTONE-7.png" />
 	</div>
 </div>
 

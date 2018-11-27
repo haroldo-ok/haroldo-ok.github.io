@@ -18,10 +18,10 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="gameboy-color-raycasting-system/RAYCAST1.png" />
-		<img class="item" src="gameboy-color-raycasting-system/RAYCAST2.png" />
-		<img class="item" src="gameboy-color-raycasting-system/RAYCAST3.png" />
-		<img class="item" src="gameboy-color-raycasting-system/RAYCAST4.png" />
+		<img class="item" src="/gameboy-color-raycasting-system/RAYCAST1.png" />
+		<img class="item" src="/gameboy-color-raycasting-system/RAYCAST2.png" />
+		<img class="item" src="/gameboy-color-raycasting-system/RAYCAST3.png" />
+		<img class="item" src="/gameboy-color-raycasting-system/RAYCAST4.png" />
 	</div>
 </div>
 

@@ -20,16 +20,16 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="genesis-rpg-creator/grpgc-1.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-2.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-3.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-4.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-5.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-6.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-b-1.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-b-2.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-b-3.png" />
-		<img class="item" src="genesis-rpg-creator/grpgc-b-4.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-1.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-2.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-3.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-4.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-5.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-6.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-b-1.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-b-2.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-b-3.png" />
+		<img class="item" src="/genesis-rpg-creator/grpgc-b-4.png" />
 	</div>
 </div>
 

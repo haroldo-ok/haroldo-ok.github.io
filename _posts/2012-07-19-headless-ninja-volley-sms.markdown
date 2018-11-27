@@ -18,10 +18,10 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-Title.png" />
-		<img class="item" src="headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png" />
-		<img class="item" src="headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-2.png" />
-		<img class="item" src="headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-3.png" />
-		<img class="item" src="headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-4.png" />
+		<img class="item" src="/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-Title.png" />
+		<img class="item" src="/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-1.png" />
+		<img class="item" src="/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-2.png" />
+		<img class="item" src="/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-3.png" />
+		<img class="item" src="/headless-ninja-volley-sms/HeadlessNinjaVolley-SMS-4.png" />
 	</div>
 </div>

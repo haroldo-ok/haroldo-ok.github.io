@@ -18,10 +18,10 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="star-control-combat-engine-gameboy-color/TESTSHIP-1.png" />
-		<img class="item" src="star-control-combat-engine-gameboy-color/TESTSHIP-2.png" />
-		<img class="item" src="star-control-combat-engine-gameboy-color/TESTSHIP-3.png" />
-		<img class="item" src="star-control-combat-engine-gameboy-color/TESTSHIP-4.png" />
+		<img class="item" src="/star-control-combat-engine-gameboy-color/TESTSHIP-1.png" />
+		<img class="item" src="/star-control-combat-engine-gameboy-color/TESTSHIP-2.png" />
+		<img class="item" src="/star-control-combat-engine-gameboy-color/TESTSHIP-3.png" />
+		<img class="item" src="/star-control-combat-engine-gameboy-color/TESTSHIP-4.png" />
 	</div>
 </div>
 

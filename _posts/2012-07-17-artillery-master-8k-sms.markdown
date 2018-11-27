@@ -20,9 +20,9 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="artillery-master-8k-sms/artillery_master_8k-01.png" />
-		<img class="item" src="artillery-master-8k-sms/artillery_master_8k-02.png" />
-		<img class="item" src="artillery-master-8k-sms/artillery_master_8k-03.png" />
-		<img class="item" src="artillery-master-8k-sms/artillery_master_8k-04.png" />
+		<img class="item" src="/artillery-master-8k-sms/artillery_master_8k-01.png" />
+		<img class="item" src="/artillery-master-8k-sms/artillery_master_8k-02.png" />
+		<img class="item" src="/artillery-master-8k-sms/artillery_master_8k-03.png" />
+		<img class="item" src="/artillery-master-8k-sms/artillery_master_8k-04.png" />
 	</div>
 </div>

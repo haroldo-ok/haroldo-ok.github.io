@@ -18,14 +18,14 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="river-strike-sms/river-01.png" />
-		<img class="item" src="river-strike-sms/river-02.png" />
-		<img class="item" src="river-strike-sms/river-03.png" />
-		<img class="item" src="river-strike-sms/river-04.png" />
-		<img class="item" src="river-strike-sms/river-05.png" />
-		<img class="item" src="river-strike-sms/river-06.png" />
-		<img class="item" src="river-strike-sms/river-07.png" />
-		<img class="item" src="river-strike-sms/river-08.png" />
-		<img class="item" src="river-strike-sms/river-09.png" />
+		<img class="item" src="/river-strike-sms/river-01.png" />
+		<img class="item" src="/river-strike-sms/river-02.png" />
+		<img class="item" src="/river-strike-sms/river-03.png" />
+		<img class="item" src="/river-strike-sms/river-04.png" />
+		<img class="item" src="/river-strike-sms/river-05.png" />
+		<img class="item" src="/river-strike-sms/river-06.png" />
+		<img class="item" src="/river-strike-sms/river-07.png" />
+		<img class="item" src="/river-strike-sms/river-08.png" />
+		<img class="item" src="/river-strike-sms/river-09.png" />
 	</div>
 </div>

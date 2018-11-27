@@ -18,10 +18,10 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="joust-sms/joust-01.png" />
-		<img class="item" src="joust-sms/joust-02.png" />
-		<img class="item" src="joust-sms/joust-03.png" />
-		<img class="item" src="joust-sms/joust-04.png" />
-		<img class="item" src="joust-sms/joust-05.png" />
+		<img class="item" src="/joust-sms/joust-01.png" />
+		<img class="item" src="/joust-sms/joust-02.png" />
+		<img class="item" src="/joust-sms/joust-03.png" />
+		<img class="item" src="/joust-sms/joust-04.png" />
+		<img class="item" src="/joust-sms/joust-05.png" />
 	</div>
 </div>

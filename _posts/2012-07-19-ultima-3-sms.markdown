@@ -18,13 +18,13 @@ Status: Unfinished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="ultima-3-sms/ultima3-01.png" />
-		<img class="item" src="ultima-3-sms/ultima3-02.png" />
-		<img class="item" src="ultima-3-sms/ultima3-03.png" />
-		<img class="item" src="ultima-3-sms/ultima3-04.png" />
-		<img class="item" src="ultima-3-sms/ultima3-05.png" />
-		<img class="item" src="ultima-3-sms/ultima3-06.png" />
-		<img class="item" src="ultima-3-sms/ultima3-07.png" />
-		<img class="item" src="ultima-3-sms/ultima3-08.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-01.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-02.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-03.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-04.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-05.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-06.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-07.png" />
+		<img class="item" src="/ultima-3-sms/ultima3-08.png" />
 	</div>
 </div>

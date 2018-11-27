@@ -18,14 +18,14 @@ Status: Finished
 
 <div class="ContentFlow">
 	<div class="flow">
-		<img class="item" src="soko-master-sms/sokoban-01.png" />
-		<img class="item" src="soko-master-sms/sokoban-02.png" />
-		<img class="item" src="soko-master-sms/sokoban-03.png" />
-		<img class="item" src="soko-master-sms/sokoban-04.png" />
-		<img class="item" src="soko-master-sms/sokoban-05.png" />
-		<img class="item" src="soko-master-sms/sokoban-06.png" />
-		<img class="item" src="soko-master-sms/sokoban-07.png" />
-		<img class="item" src="soko-master-sms/sokoban-08.png" />
-		<img class="item" src="soko-master-sms/sokoban-09.png" />
+		<img class="item" src="/soko-master-sms/sokoban-01.png" />
+		<img class="item" src="/soko-master-sms/sokoban-02.png" />
+		<img class="item" src="/soko-master-sms/sokoban-03.png" />
+		<img class="item" src="/soko-master-sms/sokoban-04.png" />
+		<img class="item" src="/soko-master-sms/sokoban-05.png" />
+		<img class="item" src="/soko-master-sms/sokoban-06.png" />
+		<img class="item" src="/soko-master-sms/sokoban-07.png" />
+		<img class="item" src="/soko-master-sms/sokoban-08.png" />
+		<img class="item" src="/soko-master-sms/sokoban-09.png" />
 	</div>
 </div>
