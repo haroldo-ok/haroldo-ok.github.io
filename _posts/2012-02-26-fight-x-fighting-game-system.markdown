@@ -11,7 +11,7 @@ Language: Free Pascal Compiler
 Status: Unfinished
 
 ## Downloads
-### >> [Download Fight X](downloads/fight70.zip "Download Fight X") <<
+### >> [Download Fight X](/downloads/fight70.zip "Download Fight X") <<
 <br>
 
 ## Images

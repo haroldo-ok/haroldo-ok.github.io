@@ -11,7 +11,7 @@ Language: BASIC (ZX-BASIC) / Z80 Assembly
 Status: Finished 
 
 ## Downloads
-### >> [Pong Master](downloads/Pong_Master_4k.zip "Download Pong Master") <<
+### >> [Pong Master](/downloads/Pong_Master_4k.zip "Download Pong Master") <<
 <br>
 
 ##Images

@@ -11,7 +11,7 @@ Language: GB-SDK
 Status: Unfinished
 
 ## Downloads
-### >> [Download Star Control GB](downloads/keystone.zip "Star Control combat engine for GB") <<
+### >> [Download Star Control GB](/downloads/keystone.zip "Star Control combat engine for GB") <<
 <br>
 
 ## Images

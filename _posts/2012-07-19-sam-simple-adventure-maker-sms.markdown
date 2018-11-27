@@ -11,7 +11,7 @@ Language: Z80 Assembly
 Status: Unfinished 
 
 ## Downloads
-### >> [SAM - Simple Adventure Maker](downloads/SAM-Simple-Adventure-Maker-v0.04.zip "SAM - Simple Adventure Maker") <<
+### >> [SAM - Simple Adventure Maker](/downloads/SAM-Simple-Adventure-Maker-v0.04.zip "SAM - Simple Adventure Maker") <<
 <br>
 
 ##Images

@@ -11,9 +11,9 @@ Language: JDK (editor) / SGCC (game)
 Status: Unfinished
 
 ## Downloads
-### >> [Download Binaries](downloads/genesisrpgcreator_0.05_alpha.zip "Download Genesis RPG Creator Binaries") <<
-### >> [Download Source Code](downloads/genesisrpgcreator_0.05_alpha_src.zip "Download Genesis RPG Creator Source Code") <<
-### >> [Download Command Line Tools](downloads/grpgc_command_line_tools.zip "Download Genesis RPG Creator Command Line Tools") <<
+### >> [Download Binaries](/downloads/genesisrpgcreator_0.05_alpha.zip "Download Genesis RPG Creator Binaries") <<
+### >> [Download Source Code](/downloads/genesisrpgcreator_0.05_alpha_src.zip "Download Genesis RPG Creator Source Code") <<
+### >> [Download Command Line Tools](/downloads/grpgc_command_line_tools.zip "Download Genesis RPG Creator Command Line Tools") <<
 <br>
 
 ## Images

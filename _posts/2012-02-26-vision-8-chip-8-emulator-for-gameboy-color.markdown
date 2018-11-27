@@ -11,7 +11,7 @@ Language: GBDK
 Status: Finished
 
 ## Downloads
-### >> [Download Vision-8 for Gameboy](downloads/gbv8_100.zip "Download Vision-8 for Gameboy Color") <<
+### >> [Download Vision-8 for Gameboy](/downloads/gbv8_100.zip "Download Vision-8 for Gameboy Color") <<
 <br>
 
 ## Images

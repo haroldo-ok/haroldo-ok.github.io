@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Unfinished 
 
 ## Downloads
-### >> [3D Dungeon SMS](downloads/maze3d-2008-01-21.zip "Download 3D Dungeon SMS") <<
+### >> [3D Dungeon SMS](/downloads/maze3d-2008-01-21.zip "Download 3D Dungeon SMS") <<
 <br>
 
 ##Images

@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Unfinished
 
 ## Downloads
-### >> [River Strike](downloads/RiverStrike-SMS-0.04alpha.zip "Download River Strike") <<
+### >> [River Strike](/downloads/RiverStrike-SMS-0.04alpha.zip "Download River Strike") <<
 <br>
 
 ##Images

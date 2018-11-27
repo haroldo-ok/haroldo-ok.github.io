@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Finished 
 
 ## Downloads
-### >> [Soko Master](downloads/SokoMaster-SMS-1.00.zip "Download Soko Master") <<
+### >> [Soko Master](/downloads/SokoMaster-SMS-1.00.zip "Download Soko Master") <<
 <br>
 
 ##Images

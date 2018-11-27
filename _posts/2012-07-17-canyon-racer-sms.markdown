@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Unfinished
 
 ## Downloads
-### >> [Canyon Racer](downloads/CanyonRacer-SMS-0.01alpha.zip "Download Canyon Racer") <<
+### >> [Canyon Racer](/downloads/CanyonRacer-SMS-0.01alpha.zip "Download Canyon Racer") <<
 <br>
 
 ##Images

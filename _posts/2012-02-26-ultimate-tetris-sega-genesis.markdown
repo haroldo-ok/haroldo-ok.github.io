@@ -11,9 +11,9 @@ Language: SGCC
 Status: Unfinished
 
 ## Downloads
-### >> [Download ROM](downloads/ultet01.zip "Download Ultimate Tetris' ROM") <<
+### >> [Download ROM](/downloads/ultet01.zip "Download Ultimate Tetris' ROM") <<
 <br>
-### >> [Download Source Code](downloads/ultetsrc.zip "Download Ultimate Tetris' Source Code") <<
+### >> [Download Source Code](/downloads/ultetsrc.zip "Download Ultimate Tetris' Source Code") <<
 <br>
 
 ## Images

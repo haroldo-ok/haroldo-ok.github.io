@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Finished
 
 ## Downloads
-### >> [Headless Ninja Volley](downloads/HeadlessNinjaVolley-SMS-0.9.zip "Download Headless Ninja Volley") <<
+### >> [Headless Ninja Volley](/downloads/HeadlessNinjaVolley-SMS-0.9.zip "Download Headless Ninja Volley") <<
 <br>
 
 ##Images

@@ -13,7 +13,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Finished
 
 ## Downloads
-### >> [Artillery Master](downloads/ArtilleryMaster8k-SMS-0.9.zip "Download Artillery Master") <<
+### >> [Artillery Master](/downloads/ArtilleryMaster8k-SMS-0.9.zip "Download Artillery Master") <<
 <br>
 
 ##Images

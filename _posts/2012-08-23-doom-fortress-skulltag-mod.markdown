@@ -17,7 +17,7 @@ Language: ACS/DECORATE (Doom mod)
 Status: Unfinished
 
 ## Downloads
-### >> [Doom Fortress](downloads/doomfortress.alpha.r112.zip "Download Doom Fortress") <<
+### >> [Doom Fortress](/downloads/doomfortress.alpha.r112.zip "Download Doom Fortress") <<
 <br>
 
 ##Images

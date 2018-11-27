@@ -11,7 +11,7 @@ Language: BASIC (ZX-BASIC) / Z80 Assembly
 Status: Unfinished 
 
 ## Downloads
-### >> [DataStorm](downloads/DataStorm-SMS-0.02.zip "Download DataStorm") <<
+### >> [DataStorm](/downloads/DataStorm-SMS-0.02.zip "Download DataStorm") <<
 <br>
 
 ##Images

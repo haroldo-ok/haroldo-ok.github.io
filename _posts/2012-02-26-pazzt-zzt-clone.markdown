@@ -11,7 +11,7 @@ Language: Turbo Pascal
 Status: Unfinished
 
 ## Downloads
-### >> [Download PaZZT](downloads/pazzt001.zip "Download PaZZT") <<
+### >> [Download PaZZT](/downloads/pazzt001.zip "Download PaZZT") <<
 <br>
 
 ## Images

@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Unfinished 
 
 ## Downloads
-### >> [Joust](downloads/joust-v0.05-alpha.zip "Download Joust") <<
+### >> [Joust](/downloads/joust-v0.05-alpha.zip "Download Joust") <<
 <br>
 
 ##Images

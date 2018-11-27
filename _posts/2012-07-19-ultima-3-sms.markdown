@@ -11,7 +11,7 @@ Language: C (Z88DK) / Z80 Assembly
 Status: Unfinished 
 
 ## Downloads
-### >> [Ultima 3](downloads/ultima3sms-2006-06-04.zip "Download Ultima 3") <<
+### >> [Ultima 3](/downloads/ultima3sms-2006-06-04.zip "Download Ultima 3") <<
 <br>
 
 ##Images

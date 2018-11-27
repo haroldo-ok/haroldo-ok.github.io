@@ -11,7 +11,7 @@ Language: GBDK
 Status: Unfinished
 
 ## Downloads
-### >> [Download GB Raycaster](downloads/gbray.zip "GB Raycaster") <<
+### >> [Download GB Raycaster](/downloads/gbray.zip "GB Raycaster") <<
 <br>
 
 ## Images

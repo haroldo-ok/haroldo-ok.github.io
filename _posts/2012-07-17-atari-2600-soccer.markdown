@@ -13,7 +13,7 @@ Language: 6507 Assembly
 Status: Finished
 
 ## Downloads
-### >> [Atari 2600 Soccer](downloads/a2600_soccer.zip "Download Atari 2600 Soccer") <<
+### >> [Atari 2600 Soccer](/downloads/a2600_soccer.zip "Download Atari 2600 Soccer") <<
 <br>
 
 ##Images

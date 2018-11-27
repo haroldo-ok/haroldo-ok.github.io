@@ -11,7 +11,7 @@ Language: GB-SDK
 Status: Finished
 
 ## Downloads
-### >> [Download Keystone Kapers GB](downloads/keystone.zip "Download Keystone Kapers GB") <<
+### >> [Download Keystone Kapers GB](/downloads/keystone.zip "Download Keystone Kapers GB") <<
 <br>
 
 ## Images
