@@ -1,6 +1,4 @@
-Title: Keystone Kapers for Gameboy Color
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 15:48:00 GMT-0300
+# Keystone Kapers for Gameboy Color
 
 This is a clone of Actvision's [Keystone Kapers] for the Gameboy Color.
 

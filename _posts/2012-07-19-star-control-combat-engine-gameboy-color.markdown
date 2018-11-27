@@ -1,6 +1,4 @@
-Title: Star Control combat for GB
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 16:27:00 GMT-0300
+# Star Control combat for GB
 
 This was an attempt to implement [Star Control]'s combat system on the gameboy.
 

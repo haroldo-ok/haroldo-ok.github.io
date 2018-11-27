@@ -1,6 +1,4 @@
-Title: DataStorm
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 20:36:00 GMT-0300
+# DataStorm
 
 This was a Sega Master System game I programmed for the [2012 SMS Power Coding Competition](http://www.smspower.org/Competitions/Coding-2012). It's essentially a Turmoil clone with fake vector-ish graphics.
 

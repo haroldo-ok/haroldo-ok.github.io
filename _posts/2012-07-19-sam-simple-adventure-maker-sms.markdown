@@ -1,6 +1,4 @@
-Title: SAM - Simple Adventure Maker
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 22:10:00 GMT-0300
+# SAM - Simple Adventure Maker
 
 This is a tool for creating simple adventure games for the Sega Master System. Pretty barebones, pretty much unfinished, but it should be enough for making some simple games.
 

@@ -1,8 +1,4 @@
-
-
-Title: Artillery Master
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 17 2012 21:56:00 GMT-0300
+# Artillery Master
 
 This was a Sega Master System game I programmed for the Minigame Compo 2006.
 

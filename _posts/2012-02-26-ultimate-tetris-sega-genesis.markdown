@@ -1,6 +1,4 @@
-Title: Ultimate Tetris for Sega Genesis
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 15:20:00 GMT-0300
+# Ultimate Tetris for Sega Genesis
 
 This is a tetris clone for Sega Genesis/Mega Drive.
 

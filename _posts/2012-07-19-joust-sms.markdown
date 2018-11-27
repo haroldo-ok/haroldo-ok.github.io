@@ -1,6 +1,4 @@
-Title: Joust
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 22:33:00 GMT-0300
+# Joust
 
 This was a try at making a version of [Joust](http://www.youtube.com/watch?v=avBoo8qyWfQ) for the Sega Master System. The graphics are partially done, the flying and scenery collision physics are implemented, but not much else.
 

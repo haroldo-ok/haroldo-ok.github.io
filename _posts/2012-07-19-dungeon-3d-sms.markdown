@@ -1,6 +1,4 @@
-Title: 3D Dungeon for Sega Master System
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 22:02:00 GMT-0300
+# 3D Dungeon for Sega Master System
 
 This was a try at making a first person dungeon game for the Sega Master System.
 

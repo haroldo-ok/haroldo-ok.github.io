@@ -1,6 +1,4 @@
-Title: Doom Fortress - Team Fortress clone for the Doom engine
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Aug 23 2012 22:02:00 GMT-0300
+# Doom Fortress - Team Fortress clone for the Doom engine
 
 This is a mod for Doom or, more specifically, for [Skulltag]; The intention was to replicate the gameplay of [TF2] on the Doom engine while still keeping the original Doom look and feel.
 

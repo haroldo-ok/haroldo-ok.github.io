@@ -1,6 +1,4 @@
-Title: Fight X
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 12:54:00 GMT-0300
+# Fight X
 
 This game was a try at replicating the gameplay of a SNES game named [Yuu Yuu Hakusho: Tokubetsu Hen][YuuYuuHakushoSNES].
 

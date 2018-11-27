@@ -1,6 +1,4 @@
-Title: Genesis RPG Creator
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 14:53:00 GMT-0300
+# Genesis RPG Creator
 
 This is an editor that when finished, would allow anyone to make their own RPG for the Sega Genesis/Mega Drive; unfortunately, I eventually lost interest on the project. The current version is limited to a single map.
 

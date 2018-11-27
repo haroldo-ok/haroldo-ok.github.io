@@ -1,6 +1,4 @@
-Title: Gameboy Raycasting System
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 13:34:00 GMT-0300
+# Gameboy Raycasting System
 
 This was an experiment to make a [raycasting][] engine for the Gameboy Color. Originally, I had intended to make a first person shooter out of this, but the resulting low resolution and still lower frame rate made me think otherwise...
 

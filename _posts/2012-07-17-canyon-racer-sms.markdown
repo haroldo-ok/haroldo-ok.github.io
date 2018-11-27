@@ -1,6 +1,4 @@
-Title: Canyon Racer
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 17 2012 22:10:00 GMT-0300
+# Canyon Racer
 
 This was a small Sega Master System game prototype I programmed just for testing purposes.
 

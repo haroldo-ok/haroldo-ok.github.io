@@ -1,6 +1,4 @@
-Title: Pong Master
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 21:05:00 GMT-0300
+# Pong Master
 
 This was a Sega Master System game I programmed for the 2006 Minigame Compo. It's basically a Pong clone, but I also tried to add the possibility of putting 'spin' to the ball, with very weird results.
 

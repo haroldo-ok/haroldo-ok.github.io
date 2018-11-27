@@ -1,6 +1,4 @@
-Title: River Strike
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 19 2012 21:22:00 GMT-0300
+# River Strike
 
 This was an attempt at making a River Raid clone for the Sega Master System.
 

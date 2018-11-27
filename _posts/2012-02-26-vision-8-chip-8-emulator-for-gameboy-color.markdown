@@ -1,6 +1,4 @@
-Title: Vision-8 for Gameboy Color
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Feb 26 2012 14:00:00 GMT-0300
+# Vision-8 for Gameboy Color
 
 This is a gameboy color port of Marcel de Kogel's [Vision-8], an open-source [CHIP-8] emulator.
 

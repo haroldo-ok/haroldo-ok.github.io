@@ -1,6 +1,4 @@
-Title: Atari 2600 Soccer
-Author: Haroldo de Oliveira Pinheiro
-Date: Thu Jul 17 2012 21:40:00 GMT-0300
+# Atari 2600 Soccer
 
 This was an Atari 2600 game I programmed just to get a feel of it.
 [Here's the Atariage thread][Original thread] that inspired me to do it.
