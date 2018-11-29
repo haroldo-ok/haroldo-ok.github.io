@@ -1,3 +1,7 @@
+---
+title: Pong Master
+---
+
 # Pong Master
 
 This was a Sega Master System game I programmed for the 2006 Minigame Compo. It's basically a Pong clone, but I also tried to add the possibility of putting 'spin' to the ball, with very weird results.

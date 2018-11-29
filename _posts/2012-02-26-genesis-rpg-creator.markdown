@@ -1,3 +1,7 @@
+---
+title: Genesis RPG Creator
+---
+
 # Genesis RPG Creator
 
 This is an editor that when finished, would allow anyone to make their own RPG for the Sega Genesis/Mega Drive; unfortunately, I eventually lost interest on the project. The current version is limited to a single map.

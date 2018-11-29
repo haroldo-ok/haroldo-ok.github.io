@@ -1,3 +1,7 @@
+---
+title: River Strike
+---
+
 # River Strike
 
 This was an attempt at making a River Raid clone for the Sega Master System.

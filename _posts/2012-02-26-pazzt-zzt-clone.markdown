@@ -1,3 +1,7 @@
+---
+title: PaZZT
+---
+
 # PaZZT
 
 This is an unfinished clone of Tim Sweeneys' [ZZT]. As it stands now, it's able to load any of the available ZZT worlds and even lets you walk around them, but not much else.

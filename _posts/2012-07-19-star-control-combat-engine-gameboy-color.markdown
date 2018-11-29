@@ -1,3 +1,7 @@
+---
+title: Star Control combat for GB
+---
+
 # Star Control combat for GB
 
 This was an attempt to implement [Star Control]'s combat system on the gameboy.

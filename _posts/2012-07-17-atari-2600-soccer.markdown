@@ -1,3 +1,7 @@
+---
+title: Atari 2600 Soccer
+---
+
 # Atari 2600 Soccer
 
 This was an Atari 2600 game I programmed just to get a feel of it.
