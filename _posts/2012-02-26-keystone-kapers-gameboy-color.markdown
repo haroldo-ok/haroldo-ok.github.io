@@ -1,3 +1,7 @@
+---
+title: Keystone Kapers for Gameboy Color
+---
+
 # Keystone Kapers for Gameboy Color
 
 This is a clone of Actvision's [Keystone Kapers] for the Gameboy Color.

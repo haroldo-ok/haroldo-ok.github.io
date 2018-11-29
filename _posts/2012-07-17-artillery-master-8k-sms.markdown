@@ -1,3 +1,7 @@
+---
+title: Artillery Master
+---
+
 # Artillery Master
 
 This was a Sega Master System game I programmed for the Minigame Compo 2006.

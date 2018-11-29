@@ -1,3 +1,7 @@
+---
+title: Fight X
+---
+
 # Fight X
 
 This game was a try at replicating the gameplay of a SNES game named [Yuu Yuu Hakusho: Tokubetsu Hen][YuuYuuHakushoSNES].

@@ -1,3 +1,7 @@
+---
+title: Gameboy Raycasting System
+---
+
 # Gameboy Raycasting System
 
 This was an experiment to make a [raycasting][] engine for the Gameboy Color. Originally, I had intended to make a first person shooter out of this, but the resulting low resolution and still lower frame rate made me think otherwise...

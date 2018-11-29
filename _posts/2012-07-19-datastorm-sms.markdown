@@ -1,3 +1,7 @@
+---
+title: DataStorm
+---
+
 # DataStorm
 
 This was a Sega Master System game I programmed for the [2012 SMS Power Coding Competition](http://www.smspower.org/Competitions/Coding-2012). It's essentially a Turmoil clone with fake vector-ish graphics.

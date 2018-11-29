@@ -1,3 +1,7 @@
+---
+title: Soko Master
+---
+
 # Soko Master
 
 This was a Sega Master System game I programmed for the [2007 SMS Power Coding Competition](http://www.smspower.org/Competitions/Coding-2007). It's a Sokoban clone with skinning support and hundreds of levels.

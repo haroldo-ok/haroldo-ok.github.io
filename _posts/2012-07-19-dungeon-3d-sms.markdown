@@ -1,3 +1,7 @@
+---
+title: 3D Dungeon for Sega Master System
+---
+
 # 3D Dungeon for Sega Master System
 
 This was a try at making a first person dungeon game for the Sega Master System.

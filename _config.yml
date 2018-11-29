@@ -1,3 +1,6 @@
+title: Haroldo OK!
+description: My programming stuff
+
 theme: jekyll-theme-midnight
 permalink: /:title/
 plugins:

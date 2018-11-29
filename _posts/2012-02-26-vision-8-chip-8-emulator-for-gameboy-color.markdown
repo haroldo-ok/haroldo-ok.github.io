@@ -1,3 +1,7 @@
+---
+title: Vision-8 for Gameboy Color
+---
+
 # Vision-8 for Gameboy Color
 
 This is a gameboy color port of Marcel de Kogel's [Vision-8], an open-source [CHIP-8] emulator.

@@ -1,3 +1,7 @@
+---
+title: Ultimate Tetris for Sega Genesis
+---
+
 # Ultimate Tetris for Sega Genesis
 
 This is a tetris clone for Sega Genesis/Mega Drive.

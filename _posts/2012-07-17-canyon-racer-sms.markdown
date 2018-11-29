@@ -1,3 +1,7 @@
+---
+title: Canyon Racer
+---
+
 # Canyon Racer
 
 This was a small Sega Master System game prototype I programmed just for testing purposes.

@@ -1,3 +1,7 @@
+---
+title: Headless Ninja Volley
+---
+
 # Headless Ninja Volley
 
 This was a Sega Master System game I programmed for some PDRoms coding competition (I don't remember which). In that competition, you had to create a game that used only four colors.
