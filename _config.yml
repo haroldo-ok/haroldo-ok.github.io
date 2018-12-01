@@ -3,11 +3,5 @@ description: My programming stuff
 
 theme: jekyll-theme-midnight
 permalink: /:title/
-plugins:
-  - jekyll-titles-from-headings
-  - jekyll-analytics
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-130174335-1      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+google_analytics: UA-130174335-1
