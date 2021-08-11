@@ -100,7 +100,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jekyll-analytics (0.1.11)
     jekyll-avatar (0.6.0)
       jekyll (~> 3.0)
     jekyll-coffeescript (1.1.1)
@@ -220,7 +219,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
-    rubyzip (1.2.2)
+    rubyzip (2.3.2)
     safe_yaml (1.0.4)
     sass (3.7.2)
       sass-listen (~> 4.0.0)
@@ -244,8 +243,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-analytics
-  jekyll-titles-from-headings
 
 BUNDLED WITH
    1.17.1
